@@ -2,7 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 	<div>
-		<a href="https://www.linkedin.com/in/anass-el-jazouly/" target="_blank">
+		<a href="https://www.linkedin.com/in/ahmedmrabet/" target="_blank">
+		<a href="https://twitter.com/Braatet" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <h1 align="center">
