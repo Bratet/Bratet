@@ -19,9 +19,8 @@ Hi, I'm Ahmed Mrabet
 
 <img align="left" src="https://github.com/Bratet/Bratet/blob/main/image.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <p align="left">
-<hr>
 
-```
+```python
 Bratet@github
 -------------------------
 💻 AI engineering student passionate about the magnificent wolrd of Artificial intelligence
@@ -33,8 +32,6 @@ Bratet@github
 🎵 Expresses creativity through art and music, playing the violin and piano
 🐋 Believes in maintaining a well-rounded life by staying active and hitting the gym regularly.
 ```
-
-<hr>
 </p>
 ## GitHub Stats
 
