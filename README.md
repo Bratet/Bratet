@@ -29,6 +29,7 @@ Bratet@github
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, R
+
 🚩 Enjoys collaborating with diverse teams to achieve shared goals
 🎵 Expresses creativity through art and music, playing the violin and piano
 🐋 Believes in maintaining a well-rounded life by staying active and hitting the gym regularly.
