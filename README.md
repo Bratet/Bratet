@@ -32,7 +32,7 @@ Bratet@github
 🎵 Expresses creativity through art and music, playing the violin and piano
 🐋 Believes in maintaining a well-rounded life by staying active and hitting the gym regularly.
 ```
-
+<hr>
 ## GitHub Stats
 
 
