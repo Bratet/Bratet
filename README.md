@@ -18,8 +18,8 @@ Hi, I'm Ahmed Mrabet
 </p>
 
 <img align="left" src="https://github.com/Bratet/Bratet/blob/main/image.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-
-<hr style="text-align: left;">
+<p align="left">
+<hr>
 
 ```
 Bratet@github
@@ -35,6 +35,7 @@ Bratet@github
 ```
 
 <hr>
+</p>
 ## GitHub Stats
 
 
