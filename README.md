@@ -24,13 +24,13 @@ Hi, I'm Ahmed Mrabet
 ```
 Bratet@github
 -------------------------
-💻 AI engineering student passionate about the magnificent wolrd of Artificial intelligence.
+💻 AI engineering student passionate about the magnificent wolrd of Artificial intelligence
 📝 Driven by the desire to develop impactful AI applications that make a positive difference in people's lives.
-🔭 Working on Deep Learning & Machine Learning.
-🌱 Learning about Computer Vision and Machine Learning stuff.
-🌟 Main languages: Python, R.
-🚩 Enjoys collaborating with diverse teams to achieve shared goals.
-🎵 Expresses creativity through art and music, playing the violin and piano.
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, R
+🚩 Enjoys collaborating with diverse teams to achieve shared goals
+🎵 Expresses creativity through art and music, playing the violin and piano
 🐋 Believes in maintaining a well-rounded life by staying active and hitting the gym regularly.
 ```
 
