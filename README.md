@@ -19,7 +19,7 @@ Hi, I'm Ahmed Mrabet
 
 <img align="left" src="https://github.com/Bratet/Bratet/blob/main/image.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
-<div align="left">
+<div align="left" width="320">
 
 
 ```python
