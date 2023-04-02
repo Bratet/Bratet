@@ -17,7 +17,7 @@ Hi, I'm Ahmed Mrabet
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1795FF&center=true&width=435&lines=Artificial+Intelligence+Engineer;Data+scientist;Open+Source+Contributor;Freelancer" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://github.com/Bratet/Bratet/blob/main/image.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/Bratet/Bratet/blob/main/image.jpeg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="320" />
 <hr>
 <div align="left" width="320">
 
