@@ -25,7 +25,7 @@ Hi, I'm Ahmed Mrabet
 ```python
 Bratet@github
 -------------------------
-💻 AI engineering student passionate about the magnificent wolrd 
+💻 AI engineering student passionate about the magnificent world 
 of Artificial intelligence
 📝 Driven by the desire to develop impactful AI applications that make 
 a positive difference in people's lives.
