@@ -8,7 +8,7 @@
 - I like people, software, and machine learning.
 - My interests lie within the field of AI, Machine Learning.
 - I solve business problems using data and artificial intelligence.
-- I enjoy walking, playing padel and tennis, and reading books.
+- I enjoy walking, playing padel/tennis, and reading books.
 
 
 <h3 align="left"> My GitHub stats </h3>
