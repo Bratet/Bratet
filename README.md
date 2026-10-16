@@ -8,9 +8,9 @@
 <a href="https://medium.com/@mrabetahmed"><img src="https://img.shields.io/badge/Medium-161B33?style=for-the-badge&logo=medium&logoColor=7EE0FF" alt="Medium"/></a>
 <a href="mailto:ahmedmrabet.002@gmail.com"><img src="https://img.shields.io/badge/Email-161B33?style=for-the-badge&logo=gmail&logoColor=7EE0FF" alt="Email"/></a>
 
-<img align="right" src="assets/pixel-desk.gif" width="256" alt="Pixel monitor typing code in the rain"/>
-
 ### 👾 About me
+
+<img align="right" src="assets/pixel-desk.gif" width="208" alt="Pixel monitor typing code in the rain"/>
 
 - 🤖 AI/ML engineer: most of my work is LLM and agent systems, like RAG assistants and tools that read and reason over documents, and I still reach for classical ML when it's the better fit for the problem
 - 🤝 I work with clients and teammates to turn messy problems into useful products, taking them from the first idea and prototype all the way to production
@@ -67,4 +67,6 @@ Projects I've contributed to:
 
 ### 📊 Activity
 
-<img src="https://streak-stats.demolab.com?user=Bratet&hide_border=true&background=161B33&ring=7EE0FF&fire=B48CF2&currStreakNum=FFFFFF&currStreakLabel=7EE0FF&sideNums=FFFFFF&sideLabels=C9D4F2&dates=8B93B8&stroke=2F3C73" height="160" alt="GitHub streak"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bratet&layout=compact&hide=html,css,scss,mdx,dockerfile,makefile,typst,shell&langs_count=5&hide_border=true&bg_color=161B33&title_color=7EE0FF&text_color=C9D4F2" height="160" alt="Most used languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bratet&hide_border=true&background=161B33&ring=7EE0FF&fire=B48CF2&currStreakNum=FFFFFF&currStreakLabel=7EE0FF&sideNums=FFFFFF&sideLabels=C9D4F2&dates=8B93B8&stroke=2F3C73" alt="GitHub streak"/>
+</p>
