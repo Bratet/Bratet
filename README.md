@@ -1,19 +1,14 @@
-<p align="center">
-  <img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="Pixel art city in the rain" width="100%"/>
-  <br/>
-  <sub>Pixel art by <a href="https://valenberg.com">Valenberg</a></sub>
-</p>
+<img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="Pixel art city in the rain" width="100%"/>
+<sub>Pixel art by <a href="https://valenberg.com">Valenberg</a></sub>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1200&color=FF2BD6&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I%27m+Ahmed+Mrabet;AI%2FML+Engineer;I+build+LLM+and+agent+systems;I+rebuild+things+to+understand+them" alt="Hi, I'm Ahmed Mrabet"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1200&color=7EE0FF&vCenter=true&width=620&height=44&lines=Hi%2C+I%27m+Ahmed+Mrabet;AI%2FML+Engineer;I+build+LLM+and+agent+systems;From+first+idea+to+production" alt="Hi, I'm Ahmed Mrabet"/>
 
-<p align="center">
-  <a href="https://ahmedmrabet.me"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=ff2bd6" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/ahmedmrabet"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmMmJkNiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
-  <a href="https://medium.com/@mrabetahmed"><img src="https://img.shields.io/badge/Medium-1a1b27?style=for-the-badge&logo=medium&logoColor=ff2bd6" alt="Medium"/></a>
-  <a href="mailto:ahmedmrabet.002@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=ff2bd6" alt="Email"/></a>
-</p>
+<a href="https://ahmedmrabet.me"><img src="https://img.shields.io/badge/Website-161B33?style=for-the-badge&logo=googlechrome&logoColor=7EE0FF" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/ahmedmrabet"><img src="https://img.shields.io/badge/LinkedIn-161B33?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdlZTBmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
+<a href="https://medium.com/@mrabetahmed"><img src="https://img.shields.io/badge/Medium-161B33?style=for-the-badge&logo=medium&logoColor=7EE0FF" alt="Medium"/></a>
+<a href="mailto:ahmedmrabet.002@gmail.com"><img src="https://img.shields.io/badge/Email-161B33?style=for-the-badge&logo=gmail&logoColor=7EE0FF" alt="Email"/></a>
+
+<img align="right" src="assets/pixel-desk.gif" width="256" alt="Pixel monitor typing code in the rain"/>
 
 ### 👾 About me
 
@@ -22,46 +17,54 @@
 - 🌱 I contribute to open source, mainly to the ML tools I use in my own work
 - 🎮 When I'm not working: reading, learning something new (inside tech or outside it) and playing video games
 
+<br clear="right"/>
+
 ### 🕹️ Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,rust,scala,pytorch,tensorflow,sklearn,opencv,fastapi,flask,django&perline=11&theme=dark" alt="Languages and ML"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,azure,gcp,terraform,postgres,kafka,gitlab,githubactions,git,linux,obsidian&perline=11&theme=dark" alt="Infrastructure and tools"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs_&_RAG-1a1b27?style=for-the-badge&logoColor=ff2bd6" alt="LLMs and RAG"/>
-  <img src="https://img.shields.io/badge/AI_Agents-1a1b27?style=for-the-badge&logoColor=ff2bd6" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=langchain&logoColor=ff2bd6" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=for-the-badge&logo=langchain&logoColor=ff2bd6" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-1a1b27?style=for-the-badge&logo=huggingface&logoColor=ff2bd6" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Azure_OpenAI-1a1b27?style=for-the-badge&logoColor=ff2bd6" alt="Azure OpenAI"/>
-  <img src="https://img.shields.io/badge/vLLM-1a1b27?style=for-the-badge&logoColor=ff2bd6" alt="vLLM"/>
-  <img src="https://img.shields.io/badge/MLflow-1a1b27?style=for-the-badge&logo=mlflow&logoColor=ff2bd6" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/PySpark-1a1b27?style=for-the-badge&logo=apachespark&logoColor=ff2bd6" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/OpenShift-1a1b27?style=for-the-badge&logo=redhatopenshift&logoColor=ff2bd6" alt="OpenShift"/>
-</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,ts,rust,scala&theme=dark" height="36" alt="Python, TypeScript, Rust, Scala"/></td>
+  </tr>
+  <tr>
+    <td><b>GenAI &amp; agents</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LLMs_&_RAG-161B33?style=for-the-badge" alt="LLMs and RAG"/>
+      <img src="https://img.shields.io/badge/AI_Agents-161B33?style=for-the-badge" alt="AI Agents"/>
+      <img src="https://img.shields.io/badge/LangChain-161B33?style=for-the-badge&logo=langchain&logoColor=7EE0FF" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/LangGraph-161B33?style=for-the-badge&logo=langchain&logoColor=7EE0FF" alt="LangGraph"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-161B33?style=for-the-badge&logo=huggingface&logoColor=7EE0FF" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/Azure_OpenAI-161B33?style=for-the-badge" alt="Azure OpenAI"/>
+      <img src="https://img.shields.io/badge/vLLM-161B33?style=for-the-badge" alt="vLLM"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>ML &amp; deep learning</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" height="36" alt="PyTorch, TensorFlow, scikit-learn, OpenCV"/></td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,kafka&theme=dark" height="36" alt="FastAPI, Flask, Django, PostgreSQL, Kafka"/>
+      <img src="https://img.shields.io/badge/PySpark-161B33?style=for-the-badge&logo=apachespark&logoColor=7EE0FF" alt="PySpark"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; MLOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,azure,gcp,terraform,gitlab,githubactions,linux&theme=dark" height="36" alt="Docker, Azure, GCP, Terraform, GitLab, GitHub Actions, Linux"/>
+      <img src="https://img.shields.io/badge/MLflow-161B33?style=for-the-badge&logo=mlflow&logoColor=7EE0FF" alt="MLflow"/>
+      <img src="https://img.shields.io/badge/OpenShift-161B33?style=for-the-badge&logo=redhatopenshift&logoColor=7EE0FF" alt="OpenShift"/>
+    </td>
+  </tr>
+</table>
 
 ### 🌱 Open source
 
 Projects I've contributed to:
 
-<p align="center">
-  <a href="https://github.com/keras-team/keras"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keras-team&repo=keras&theme=tokyonight&hide_border=true&title_color=FF2BD6&icon_color=FF2BD6" alt="keras-team/keras"/></a>
-</p>
+<a href="https://github.com/keras-team/keras"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keras-team&repo=keras&hide_border=true&bg_color=161B33&title_color=7EE0FF&icon_color=B48CF2&text_color=C9D4F2" alt="keras-team/keras"/></a>
 
-### 🐍 My commits, eaten
+### 📊 Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bratet/Bratet/output/snake-neon.svg" alt="Snake eating my contribution graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bratet/Bratet/main/metrics/isocalendar.svg" alt="Contribution calendar" width="49%"/>
-  <img src="https://raw.githubusercontent.com/Bratet/Bratet/main/metrics/languages.svg" alt="Most used languages" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bratet&theme=tokyonight&hide_border=true&ring=FF2BD6&fire=FF2BD6&currStreakLabel=FF2BD6" alt="GitHub streak"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Bratet&hide_border=true&background=161B33&ring=7EE0FF&fire=B48CF2&currStreakNum=FFFFFF&currStreakLabel=7EE0FF&sideNums=FFFFFF&sideLabels=C9D4F2&dates=8B93B8&stroke=2F3C73" height="160" alt="GitHub streak"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bratet&layout=compact&hide=html,css,scss,mdx,dockerfile,makefile,typst,shell&langs_count=5&hide_border=true&bg_color=161B33&title_color=7EE0FF&text_color=C9D4F2" height="160" alt="Most used languages"/>
