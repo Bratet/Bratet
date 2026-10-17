@@ -61,7 +61,7 @@
 
 ### 🛠️ Things I've built
 
-<a href="https://github.com/Bratet/obsidian-boox-cloud-sync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bratet&repo=obsidian-boox-cloud-sync&hide_border=true&bg_color=161B33&title_color=7EE0FF&icon_color=B48CF2&text_color=C9D4F2" alt="obsidian-boox-cloud-sync"/></a>&nbsp;<a href="https://github.com/Bratet/career-ops-oss"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bratet&repo=career-ops-oss&hide_border=true&bg_color=161B33&title_color=7EE0FF&icon_color=B48CF2&text_color=C9D4F2" alt="career-ops-oss"/></a>
+<a href="https://github.com/Bratet/obsidian-boox-cloud-sync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bratet&repo=obsidian-boox-cloud-sync&hide_border=true&description_lines_count=3&bg_color=161B33&title_color=7EE0FF&icon_color=B48CF2&text_color=C9D4F2" alt="obsidian-boox-cloud-sync"/></a>&nbsp;<a href="https://github.com/Bratet/onward"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bratet&repo=onward&hide_border=true&description_lines_count=3&bg_color=161B33&title_color=7EE0FF&icon_color=B48CF2&text_color=C9D4F2" alt="onward"/></a>
 
 ### 🌱 Open source
 
